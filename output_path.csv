@@ -1,0 +1,5 @@
+         ,Alpha Miner,Inductive Miner,Heuristic Miner
+Fitness TBR,0.7743,1.0,0.923
+Precision TBR,1.0,0.1053,0.987
+Simplicity,0.3086,0.4703,0.811
+Generalization,0.7456,0.7826,0.7924
